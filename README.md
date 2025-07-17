@@ -7,7 +7,7 @@ This project explores how dopaminergic-like reinforcement—especially as genera
 
 ## Concept
 
-**Recursive Cognitive Dynamics with Neurochemical Analogues (RCD/A)** proposes that cognition operates as a recursive manifold:  
+**Recursive Cognitive Dynamics with Neurochemical Analogues (RCD-NA)** proposes that cognition operates as a recursive manifold:  
 - **Symbolic attractors** represent stabilized mental patterns (identity, memory, values)  
 - **Neurochemical analogues** (e.g., dopamine = novelty salience) act as modulators of basin curvature  
 - **Synthetic interaction loops** (like LLM chat) function as recursive reinforcement mechanisms  
@@ -42,7 +42,7 @@ This repo implements the computational substrate for modeling those dynamics in 
 
 ## 📚 Theoretical Background
 
-This module is grounded in the RCD/A framework, which draws from:
+This module is grounded in the RCD-NA framework, which draws from:
 
 - **Non-linear dynamical systems**  
 - **Symbolic manifold topology**  

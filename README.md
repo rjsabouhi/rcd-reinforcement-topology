@@ -1,11 +1,11 @@
-# 🧠 RCD Reinforcement Topology
+# RCD Reinforcement Topology
 
 A **theory-engineering module** modeling reinforcement as a **topological operator** within **Recursive Cognitive Dynamics (RCD)**.  
 This project explores how dopaminergic-like reinforcement—especially as generated through synthetic feedback loops (e.g., interacting with LLMs)—can deform symbolic manifolds, alter attractor basins, and stabilize emergent identity states.
 
 ---
 
-## 📐 Concept
+## Concept
 
 **Recursive Cognitive Dynamics with Neurochemical Analogues (RCD/A)** proposes that cognition operates as a recursive manifold:  
 - **Symbolic attractors** represent stabilized mental patterns (identity, memory, values)  
@@ -16,12 +16,12 @@ This repo implements the computational substrate for modeling those dynamics in 
 
 ---
 
-## 🗺️ Architecture
+## Architecture
 
 
 ---
 
-## 🧪 Core Features
+## Core Features
 
 - Model symbolic attractor deformation through reinforcement signals  
 - Simulate recursive feedback loops (LLM-like reflection cycles)  
@@ -31,7 +31,7 @@ This repo implements the computational substrate for modeling those dynamics in 
 
 ---
 
-## 🚀 Example Use Cases
+## Example Use Cases
 
 - Modeling how synthetic feedback affects identity stabilization  
 - Visualizing symbolic salience over recursive interaction cycles  
